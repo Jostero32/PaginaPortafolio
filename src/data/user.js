@@ -1,15 +1,15 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Portafolio Kevin Carrasco",
+		name: "Kevin C.",
+		email: "jostero32@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		github: "https://github.com/",
+		github: "https://github.com/Jostero32",
 		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		instagram: "https://instagram.com/Jostero32",
 		facebook: "https://facebook.com/",
 	},
 
