@@ -1,22 +1,22 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Portafolio Kevin Carrasco",
+		name: "Kevin C.",
+		email: "jostero32@gmail.com",
 		logo: "../logo.png",
 	},
 
 	socials: {
-		github: "https://github.com/",
+		github: "https://github.com/Jostero32",
 		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
+		instagram: "https://instagram.com/Jostero32",
 		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Estudiante de ingenieria en software.",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"Soy un estudiante de ingenieria en software con experiencia en una variedad de tecnologías clave, incluyendo Java, JavaScript, HTML/CSS, Python y React. Mi enfoque se centra en crear soluciones innovadoras para desafíos tecnológicos. Desde el desarrollo del lado del servidor con Java hasta la creación de interfaces de usuario interactivas con React, estoy preparado para abordar proyectos de cualquier escala. Explora mi trabajo para descubrir cómo puedo contribuir al éxito de tu proyecto con mi experiencia y habilidades.",
 	},
 
 	about: {
