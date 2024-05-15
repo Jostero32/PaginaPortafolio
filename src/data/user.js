@@ -14,7 +14,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Estudiante de ingenieria en software.",
+		title: "Hola Soy Kevin Carrasco, Estudiante de ingenieria en software.",
 		description:
 			"Soy un estudiante de ingenieria en software con experiencia en una variedad de tecnologías clave, incluyendo Java, JavaScript, HTML/CSS, Python y React. Mi enfoque se centra en crear soluciones innovadoras para desafíos tecnológicos. Desde el desarrollo del lado del servidor con Java hasta la creación de interfaces de usuario interactivas con React, estoy preparado para abordar proyectos de cualquier escala. Explora mi trabajo para descubrir cómo puedo contribuir al éxito de tu proyecto con mi experiencia y habilidades.",
 	},
