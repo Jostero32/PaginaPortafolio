@@ -3,7 +3,7 @@ const INFO = {
 		title: "Portafolio Kevin Carrasco",
 		name: "Kevin C.",
 		email: "jostero32@gmail.com",
-		logo: "../logo.png",
+		logo: "https://static.vecteezy.com/system/resources/previews/004/059/941/non_2x/young-man-wearing-glasses-free-vector.jpg",
 	},
 
 	socials: {
