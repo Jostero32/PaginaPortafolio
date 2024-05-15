@@ -100,7 +100,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.png"
+											src="https://www.itreseller.es/files/202302/desarrollador-programacion-empleo-ti.jpg"
 											alt="about"
 											className="homepage-image"
 										/>

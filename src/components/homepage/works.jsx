@@ -21,7 +21,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Facebook</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Ingeniero en Software
 							</div>
 							<div className="work-duration">2019 - Present</div>
 						</div>
@@ -34,7 +34,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Twitter</div>
 							<div className="work-subtitle">
-								Software Engineer
+							Ingeniero en Software
 							</div>
 							<div className="work-duration">2019 - Present</div>
 						</div>
