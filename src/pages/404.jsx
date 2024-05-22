@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { useNavigate } from 'react-router-dom';
 
 import { faFaceSadTear } from "@fortawesome/free-regular-svg-icons";
 
@@ -12,6 +13,10 @@ import "./styles/404.css";
 
 const Notfound = () => {
 	useEffect(() => {
+		const navigate = useNavigate();
+		useEffect(()=>{
+			navigate('/');
+		});
 		document.title = `404 | ${INFO.main.title}`;
 	}, []);
 
