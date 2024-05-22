@@ -12,11 +12,10 @@ import INFO from "../data/user";
 import "./styles/404.css";
 
 const Notfound = () => {
+	const navigate = useNavigate();
+
 	useEffect(() => {
-		const navigate = useNavigate();
-		useEffect(()=>{
-			navigate('/');
-		});
+		navigate('/');
 		document.title = `404 | ${INFO.main.title}`;
 	}, []);
 
